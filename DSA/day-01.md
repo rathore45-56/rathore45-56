@@ -1,6 +1,5 @@
 <code/>
 #include <bits/stdc++.h> 
-int flag=0;
 void calculate(int a,int b,int c,int &x,int &y)
 {
 	if(a==0)
