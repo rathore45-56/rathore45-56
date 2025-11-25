@@ -77,8 +77,9 @@ If ‘a’, ‘b’, and ‘c’ are 5, 10, and 10 respectively, the initial int
 
 **💡 Approach Used By me**
 -> I did the question using recursion because c has given so I used c as GCD(Greatest Common Divisor). I use base condition where I make "a" as 0(zero) and make y as "c/b" if "c%b==0" otherwise make x and y as     "0". 
+
 **Solution C++**
-- 📝 [Day 1 Solutions](./DSA/day-01.md)
+- 📝 [Day 1 Solution](./DSA/day-01.md)
 
 
 2.Problem statement
@@ -94,7 +95,7 @@ Sum of all even numbers till 'N' will be : 2 + 4 + 6 = 12
 -> I solved the problem using recursion and use base condition as "n==0" then return 0. Otherwise call function for odd and even terms.
 
 **Solution C++**
-- 📝 [Day 1 Solutions](./DSA/day-02.md)
+- 📝 [Day 2 Solution](./DSA/day-02.md)
 
 
 
