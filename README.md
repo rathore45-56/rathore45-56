@@ -77,30 +77,8 @@ If ‘a’, ‘b’, and ‘c’ are 5, 10, and 10 respectively, the initial int
 
 **💡 Approach Used By me**
 -> I did the question using recursion because c has given so I used c as GCD(Greatest Common Divisor). I use base condition where I make "a" as 0(zero) and make y as "c/b" if "c%b==0" otherwise make x and y as     "0". 
-
-**<code/>**
-#include <bits/stdc++.h> 
-void calculate(int a,int b,int c,int &x,int &y)
-{
-	if(a==0)
-	{
-		if(c%b==0)
-		x=0,y=c/b,return;
-		else
-			x=0,y=0,return;
-	}
-	int i,j;
-    calculate(b%a,a,c,i,j);
-    x=j-(b/a)*i;
-	y=i;
-}
-vector<int> linearEquation(int a, int b, int c)
-{
-	int x,y;
-	calculate(a,b,c,x,y);
-	if(x==0&&y==0)
-	return {-1,-1};
-	return {x,y};}
+**Solution C++**
+- 📝 [Day 1 Solutions](./DSA/day-01.md)
 
 
 2.Problem statement
@@ -115,20 +93,8 @@ Sum of all even numbers till 'N' will be : 2 + 4 + 6 = 12
 
 -> I solved the problem using recursion and use base condition as "n==0" then return 0. Otherwise call function for odd and even terms.
 
-**<code/>**
-#include <bits/stdc++.h> 
-long long sum=0;
-long long evenSumTillN(int n) {
-    if(n==0)
-    return 0;
-    if(n&1)
-        evenSumTillN(n-1);
-    else
-    { 
-      sum=n+ evenSumTillN(n-2);
-      return sum;
-    }
-}
+**Solution C++**
+- 📝 [Day 1 Solutions](./DSA/day-02.md)
 
 
 
