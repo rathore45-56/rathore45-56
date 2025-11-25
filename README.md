@@ -68,9 +68,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 - Problems Solved:  2
 - Topics Covered:  1
 - Lecture(s) Watched:  1
-- Notes:  Today i have done 2 problems->
-
-1.Problem statement
+- Notes:  Today i have done 2 problems given below:-
+1.Problem statement->
 Ninja has been given an assignment by his teacher. He has been given three integers ‘a’,’b’, and ‘c’ which represent the coefficients of the equation “ax + by = c”. His task is to find the initial integral solution of the given equation if a finite solution exists.
 
 For example:
