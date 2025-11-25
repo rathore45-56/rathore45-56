@@ -86,25 +86,13 @@ void calculate(int a,int b,int c,int &x,int &y)
 	if(a==0)
 	{
 		if(c%b==0)
-		{
-		x=0;
-		y=c/b;
-		return;
-		}
+		x=0,y=c/b,return;
 		else
-		{
-			x=0;
-			y=0;
-			return;
-		}
-		
-		
+			x=0,y=0,return;
 	}
-	
 	int i,j;
-
-	calculate(b%a,a,c,i,j);
-	x=j-(b/a)*i;
+    calculate(b%a,a,c,i,j);
+    x=j-(b/a)*i;
 	y=i;
 }
 vector<int> linearEquation(int a, int b, int c)
@@ -113,9 +101,7 @@ vector<int> linearEquation(int a, int b, int c)
 	calculate(a,b,c,x,y);
 	if(x==0&&y==0)
 	return {-1,-1};
-	return {x,y};
-
-}
+	return {x,y};}
 
 
 2.Problem statement
@@ -137,10 +123,7 @@ long long evenSumTillN(int n) {
     if(n==0)
     return 0;
     if(n&1)
-    {
-       
         evenSumTillN(n-1);
-    }
     else
     { 
       sum=n+ evenSumTillN(n-2);
