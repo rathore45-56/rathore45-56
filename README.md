@@ -95,7 +95,7 @@ Sum of all even numbers till 'N' will be : 2 + 4 + 6 = 12
 -> I solved the problem using recursion and use base condition as "n==0" then return 0. Otherwise call function for odd and even terms.
 
 **Solution C++**
-- 📝 [Day 2 Solution](./DSA/day-02.md)
+- 📝 [Day 1 Solution](./DSA/day-02.md)
 
 
 
