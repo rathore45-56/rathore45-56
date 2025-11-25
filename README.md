@@ -54,7 +54,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 - 👨‍🎓 B.Tech (CSE), Completed 2024
 - 🧠 Strong foundation in Data Structures & Algorithms
 - 🏆 College Chess Champion | 4th Prize District Math Competition<!--
-**rathore45-56/rathore45-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 ---
