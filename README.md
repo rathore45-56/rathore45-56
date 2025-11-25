@@ -99,4 +99,22 @@ Sum of all even numbers till 'N' will be : 2 + 4 + 6 = 12
 - 📝 [Day 1 Solution](./DSA/day-02.md)
 
 
+### **Day 2 – 26 Nov 2025**
+- Problems Solved:  1
+- Topics Covered:  0
+- Lecture(s) Watched:  1
+- Notes: Today i have solved 1 **Leet Code**problem as given below:-
+
+ Problem:- 118th problem(Pascal's triangle)
+ 
+ **💡 Approach Used By me**
+
+ -> I solved the problem using recursion and use base condition as "n==0" then return {} and if "n==1" then return {{1}}. First i make 1D vector initialize as {1} for number of terms(n) and then put a value on    1 to n-1  as a contiguous sum of previous values of 1D array.
+
+ **Solution C++**
+- 📝 [Day 2 Solution](./DSA/day-03.md)
+
+
+
+
 
