@@ -20,11 +20,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 
 📍 My goal is to master data structures required for real-world technical interviews and maintain daily GitHub commits by solving topic-wise problems.
 
-## 🧠 DSA Progress & Badges
-![Problems Solved](https://img.shields.io/badge/LeetCode-Problems_Solved-FFA116?style=for-the-badge&logo=leetcode)
-![Daily Commit](https://img.shields.io/badge/GitHub-Daily_Commit_Streak-black?style=for-the-badge&logo=github)
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![DSA](https://img.shields.io/badge/Focus-Data_Structures_&_Algorithms-blue?style=for-the-badge)
+### 🧠 DSA Progress & Badges
 
 ### 📅 Topic-wise Roadmap
 | Topic | Status |
@@ -55,16 +51,15 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 - 📝 Push daily commits and maintain progress on GitHub
 - 💻 Work on impactful real-world projects
 
+💡## **About Me**
+- 👨‍🎓 B.Tech (CSE), Completed 2024
+- 🧠 Strong foundation in Data Structures & Algorithms
+- 🏆 College Chess Champion | 4th Prize District Math Competition<!--
+**rathore45-56/rathore45-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ---
-
-### 📊 **GitHub Status**
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathore45-56&show_icons=true&theme=default)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rathore45-56)
-
----
-
 ### 📫 **Contact**
 - **Email:** thakur8utkarsh@gmail.com
 - **LinkedIn:** https://linkedin.com/in/www.linkedin.com/in/utkarsh-rathore-0178a3237
--->
+
