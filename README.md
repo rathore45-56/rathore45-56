@@ -67,9 +67,10 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 ![Coding](https://img.shields.io/badge/Language-C++-blue)
 ![Daily](https://img.shields.io/badge/🔥Daily-Commit-orange)
 
-| Day | Date | Topics / Problems Solved | Link to Solutions | Link to Solutions |
+| Day | Date | Topics / Problems Solved | Link to Solutions |
 |----|------|--------------------------|-------------------|
-| Day 1 | 25 Jan 2025 | Array problems (#Easy-Sum of even numbers till N(Codestudio), #Medium-Linear Equation(CodeStudio)) | [Solution](./DSA/day-01.md) | [Solution](./DSA/day02.md) 
+| Day 1 | 25 Jan 2025 | Array problems (#Easy-Sum of even numbers till N(Codestudio)) | [Solution](./DSA/day-01.md) |
+| Day 1 | 25 Jan 2025 | Array problems (#Medium-Linear Equation(CodeStudio)) | [Solution](./DSA/day-02.md) |
 | Day 2 | 26 Jan 2025 | Array problems (#Medium-Pascal's Triangle(LeetCode)) | [Solutions](./DSA/day03.md)
 
 
