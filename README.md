@@ -53,15 +53,13 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 💡## **About Me**
 - 👨‍🎓 B.Tech (CSE), Completed 2024
 - 🧠 Strong foundation in Data Structures & Algorithms
-- 🏆 College Chess Champion | 4th Prize District Math Competition<!--
+- 🏆 College Chess Champion | 4th Prize District Math Competition.
 
-
-
----
 ### 📫 **Contact**
 - **Email:** thakur8utkarsh@gmail.com
 - **LinkedIn:** https://linkedin.com/in/www.linkedin.com/in/utkarsh-rathore-0178a3237
 
+---!
 ## 📅 Daily Progress Tracker
 ![Progress](https://img.shields.io/badge/DSA-Progress-brightgreen)
 ![Coding](https://img.shields.io/badge/Language-C++-blue)
