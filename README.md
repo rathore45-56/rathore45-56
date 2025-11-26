@@ -59,7 +59,6 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 - **Email:** thakur8utkarsh@gmail.com
 - **LinkedIn:** https://linkedin.com/in/www.linkedin.com/in/utkarsh-rathore-0178a3237
 
----!
 ## 📅 Daily Progress Tracker
 ![Progress](https://img.shields.io/badge/DSA-Progress-brightgreen)
 ![Coding](https://img.shields.io/badge/Language-C++-blue)
