@@ -62,57 +62,13 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 - **Email:** thakur8utkarsh@gmail.com
 - **LinkedIn:** https://linkedin.com/in/www.linkedin.com/in/utkarsh-rathore-0178a3237
 
-## 🔥 Day-wise Progress
+##![Progress](https://img.shields.io/badge/DSA-Progress-brightgreen)
 
-### **Day 1 – 25 Nov 2025**
-- Problems Solved:  2
-- Topics Covered:  1
-- Lecture(s) Watched:  1
-- Notes:  Today i have done 2 problems given below:-
-1.Problem statement->
-Ninja has been given an assignment by his teacher. He has been given three integers ‘a’,’b’, and ‘c’ which represent the coefficients of the equation “ax + by = c”. His task is to find the initial integral solution of the given equation if a finite solution exists.
+| Day | Date | Topics / Problems Solved | Link to Solutions |
+|----|------|--------------------------|-------------------|
+| Day 1 | 25 Jan 2025 | Array problems (#Easy-Sum of even numbers till N(Codestudio), #Medium-Linear Equation(CodeStudio) | [Solution](./DSA/day-01.md) | [Solution](./DSA/day02.md) 
+| Day 2 | 26 Jan 2025 | Array problems (#Medium-Pascal's Triangle(LeetCode)) | [Solutions](./DSA/day03.md)
 
-For example:
-
-If ‘a’, ‘b’, and ‘c’ are 5, 10, and 10 respectively, the initial integral solution will be 2 and 0 for ‘x’ and ‘y’ respectively.
-
-**💡 Approach Used By me**
--> I did the question using recursion because c has given so I used c as GCD(Greatest Common Divisor). I use base condition where I make "a" as 0(zero) and make y as "c/b" if "c%b==0" otherwise make x and y as     "0". 
-
-**Solution C++**
-- 📝 [Day 1 Solution](./DSA/day-01.md)
-
-
-2.Problem statement
-You have been given a number 'N'. Your task is to find the sum of all even numbers from 1 to 'N' (both inclusive).
-
-Example :
-
-Given 'N' : 6
-Sum of all even numbers till 'N' will be : 2 + 4 + 6 = 12
-
-**💡 Approach Used By me**
-
--> I solved the problem using recursion and use base condition as "n==0" then return 0. Otherwise call function for odd and even terms.
-
-**Solution C++**
-- 📝 [Day 1 Solution](./DSA/day-02.md)
-
-
-### **Day 2 – 26 Nov 2025**
-- Problems Solved:  1
-- Topics Covered:  0
-- Lecture(s) Watched:  1
-- Notes: Today i have solved 1 **Leet Code**problem as given below:-
-
- Problem:- 118th problem(Pascal's triangle)
- 
- **💡 Approach Used By me**
-
- -> I solved the problem using recursion and use base condition as "n==0" then return {} and if "n==1" then return {{1}}. First i make 1D vector initialize as {1} for number of terms(n) and then put a value on    1 to n-1  as a contiguous sum of previous values of 1D array.
-
- **Solution C++**
-- 📝 [Day 2 Solution](./DSA/day-03.md)
 
 
 
