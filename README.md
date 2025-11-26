@@ -68,7 +68,9 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 |----|------|--------------------------|-------------------|
 | Day 1 | 25 Jan 2025 | Array problems (#Easy-Sum of even numbers till N(Codestudio)) | [Solution](./DSA/day-02.md) |
 | Day 1 | 25 Jan 2025 | Array problems (#Medium-Linear Equation(CodeStudio)) | [Solution](./DSA/day-01.md) |
-| Day 2 | 26 Jan 2025 | Array problems (#Medium-Pascal's Triangle(LeetCode)) | [Solutions](./DSA/day-03.md)
+| Day 2 | 26 Jan 2025 | Array problems (#Medium-Pascal's Triangle(LeetCode)) | [Solutions](./DSA/day-03.md) |
+| Day 2 | 26 Jan 2025 | Array problems (#Medium- Fibonacci Sum(CodeStudio)) | [Solutions](./DSA/day-04.md) |
+
 
 
 
