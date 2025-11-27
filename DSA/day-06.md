@@ -32,4 +32,5 @@ vector<int> findAnagramsIndices(string str, string ptr, int n, int m){
        k++;
    }
    return a;
+   
 }
