@@ -76,7 +76,9 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 4 | 28 Jan 2025 | String problems (#Easy- Roman Numeral To Integer(CodeStudio)) | [Solution](./DSA/day-08.md) |
 | Day 5 | 29 Jan 2025 | 2D Array problems (#Medium- Rat in a Maze(GFG)) | [Solution](./DSA/day-09.md) |
 | Day 5 | 29 Jan 2025 | String Problems (#Easy- Compare Version Numbers(CodeStudio)) | [Solution](./DSA/day-10.md) |
-| Day 6 | 30 Jan 2025 | String Problems (#Easy-  Custom Sort String(CodeStudio)) | [Solution](./DSA/day-11.md) |
+| Day 6 | 30 Jan 2025 | String Problems (#Easy- Custom Sort String(CodeStudio)) | [Solution](./DSA/day-11.md) |
+| Day 6 | 30 Jan 2025 | String Problems (#Easy- Find Pattern in String - KMP Algorithm(CodeStudio(Partially Accepted))) | [Solution](./DSA/day-12.md) |
+
 
 
 
