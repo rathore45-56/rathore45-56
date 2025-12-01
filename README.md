@@ -66,18 +66,20 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 
 | Day | Date | Topics / Problems Solved | Link to Solutions |
 |----|------|--------------------------|-------------------|
-| Day 1 | 25 Jan 2025 | Array problems (#Easy-Sum of even numbers till N(Codestudio)) | [Solution](./DSA/day-02.md) |
-| Day 1 | 25 Jan 2025 | Array problems (#Medium-Linear Equation(CodeStudio)) | [Solution](./DSA/day-01.md) |
-| Day 2 | 26 Jan 2025 | Array problems (#Medium-Pascal's Triangle(LeetCode)) | [Solution](./DSA/day-03.md) |
-| Day 2 | 26 Jan 2025 | Array problems (#Medium-Fibonacci Sum(CodeStudio)) | [Solution](./DSA/day-04.md) |
-| Day 3 | 27 Jan 2025 | Array problems (#Medium-Subsets(Leetcode)) | [Solution](./DSA/day-05.md) |
-| Day 3 | 27 Jan 2025 | String problems (#Easy-Find All Anagrams in a String(CodeStudio)) | [Solution](./DSA/day-06.md) |
-| Day 4 | 28 Jan 2025 | String problems (#Medium-Letter Combinations of a Phone Number(LeetCode)) | [Solution](./DSA/day-07.md) |
-| Day 4 | 28 Jan 2025 | String problems (#Easy- Roman Numeral To Integer(CodeStudio)) | [Solution](./DSA/day-08.md) |
-| Day 5 | 29 Jan 2025 | 2D Array problems (#Medium- Rat in a Maze(GFG)) | [Solution](./DSA/day-09.md) |
-| Day 5 | 29 Jan 2025 | String Problems (#Easy- Compare Version Numbers(CodeStudio)) | [Solution](./DSA/day-10.md) |
-| Day 6 | 30 Jan 2025 | String Problems (#Easy- Custom Sort String(CodeStudio)) | [Solution](./DSA/day-11.md) |
-| Day 6 | 30 Jan 2025 | String Problems (#Easy- Find Pattern in String - KMP Algorithm(CodeStudio(Partially Accepted))) | [Solution](./DSA/day-12.md) |
+| Day 1 | 25 Nov 2025 | Array problems (#Easy-Sum of even numbers till N(Codestudio)) | [Solution](./DSA/day-02.md) |
+| Day 1 | 25 Nov 2025 | Array problems (#Medium-Linear Equation(CodeStudio)) | [Solution](./DSA/day-01.md) |
+| Day 2 | 26 Nov 2025 | Array problems (#Medium-Pascal's Triangle(LeetCode)) | [Solution](./DSA/day-03.md) |
+| Day 2 | 26 Nov 2025 | Array problems (#Medium-Fibonacci Sum(CodeStudio)) | [Solution](./DSA/day-04.md) |
+| Day 3 | 27 Nov 2025 | Array problems (#Medium-Subsets(Leetcode)) | [Solution](./DSA/day-05.md) |
+| Day 3 | 27 Nov 2025 | String problems (#Easy-Find All Anagrams in a String(CodeStudio)) | [Solution](./DSA/day-06.md) |
+| Day 4 | 28 Nov 2025 | String problems (#Medium-Letter Combinations of a Phone Number(LeetCode)) | [Solution](./DSA/day-07.md) |
+| Day 4 | 28 Nov 2025 | String problems (#Easy- Roman Numeral To Integer(CodeStudio)) | [Solution](./DSA/day-08.md) |
+| Day 5 | 29 Nov 2025 | 2D Array problems (#Medium- Rat in a Maze(GFG)) | [Solution](./DSA/day-09.md) |
+| Day 5 | 29 Nov 2025 | String Problems (#Easy- Compare Version Numbers(CodeStudio)) | [Solution](./DSA/day-10.md) |
+| Day 6 | 30 Nov 2025 | String Problems (#Easy- Custom Sort String(CodeStudio)) | [Solution](./DSA/day-11.md) |
+| Day 6 | 30 Nov 2025 | String Problems (#Easy- Find Pattern in String - KMP Algorithm(CodeStudio(Partially Accepted))) | [Solution](./DSA/day-12.md) |
+| Day 7 | 01 Dec 2025 | String Problems (#Easy-  Generate Parentheses(CodeStudio)) | [Solution](./DSA/day-13.md) |
+
 
 
 
