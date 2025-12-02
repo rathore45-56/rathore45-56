@@ -30,8 +30,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Recursion | ✔ Completed |
 | Sorting | ✔ Completed |
 | Searching | ✔ Completed |
-| OOP | 🔄 In Progress |
-| Linked List | ⏳ Upcoming |
+| OOP | ✔ Completed |
+| Linked List | 🔄 In Progress |
 | Stack & Queue | ⏳ Upcoming |
 | Trees & BST | ⏳ Upcoming |
 | Graphs | ⏳ Upcoming |
