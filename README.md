@@ -84,6 +84,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 9 | 03 Dec 2025 | Maths (#Easy-Largest Prime Factor(CodeStudio)) | [Solution](./DSA/day-16.md) |
 | Day 10 | 04  Dec 2025 | Maths (#Easy-Ninja And The LCM(CodeStudio)) | [Solution](./DSA/day-17.md) |
 | Day 11 | 04  Dec 2025 | Maths (#Moderate-Count Primes(CodeStudio)) | [Solution](./DSA/day-18.md) |
+| Day 11 | 05  Dec 2025 | Maths (#Moderate- Sum of Factors(CodeStudio)) | [Solution](./DSA/day-19.md) |
+
 
 
 
