@@ -81,8 +81,10 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 7 | 01 Dec 2025 | String Problems (#Easy-  Generate Parentheses(CodeStudio)) | [Solution](./DSA/day-13.md) |
 | Day 8 | 02 Dec 2025 | Recursion Problems (#Easy- All Possible Permutations of a String(CodeStudio)) | [Solution](./DSA/day-14.md) |
 | Day 8 | 02 Dec 2025 | Recursion + String Problems (#Easy- Look-And-Say Sequence(CodeStudio)) | [Solution](./DSA/day-15.md) |
-| Day 9 | 03 Dec 2025 | Maths (#Easy-  Largest Prime Factor(CodeStudio)) | [Solution](./DSA/day-16.md) |
-| Day 10 | 04  Dec 2025 | Maths (#Easy-   Ninja And The LCM(CodeStudio)) | [Solution](./DSA/day-17.md) |
+| Day 9 | 03 Dec 2025 | Maths (#Easy-Largest Prime Factor(CodeStudio)) | [Solution](./DSA/day-16.md) |
+| Day 10 | 04  Dec 2025 | Maths (#Easy-Ninja And The LCM(CodeStudio)) | [Solution](./DSA/day-17.md) |
+| Day 11 | 04  Dec 2025 | Maths (#Moderate-Count Primes(CodeStudio)) | [Solution](./DSA/day-18.md) |
+
 
 
 
