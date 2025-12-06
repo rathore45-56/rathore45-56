@@ -86,6 +86,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 10 | 04  Dec 2025 | Maths (#Moderate-Count Primes(CodeStudio)) | [Solution](./DSA/day-18.md) |
 | Day 11 | 05  Dec 2025 | Maths (#Moderate- Sum of Factors(CodeStudio)) | [Solution](./DSA/day-19.md) |
 | Day 11 | 05  Dec 2025 | Maths (#Moderate- Four Divisors(CodeStudio(#Asked in Google))) | [Solution](./DSA/day-20.md) |
+| Day 12 | 06  Dec 2025 | Maths (#Moderate- Longest Substring Without Repeating Characters(CodeStudio)) | [Solution](./DSA/day-21.md) |
+
 
 
 
