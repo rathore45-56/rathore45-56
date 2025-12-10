@@ -90,7 +90,9 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 13 | 07  Dec 2025 | String (#Moderate- Implement strStr()(#5/8 Test case passed)(CodeStudio)) | [Solution](./DSA/day-22.md) |
 | Day 13 | 07  Dec 2025 | String (#Easy- Isomorphic Strings(CodeStudio)) | [Solution](./DSA/day-23.md) |
 | Day 14 | 08  Dec 2025 | String (#Easy- Check Permutation(CodeStudio)) | [Solution](./DSA/day-24.md) |
-| Day 14 | 08  Dec 2025 | Maths (#Easy-  Make Groups(CodeStudio)) | [Solution](./DSA/day-25.md) |
+| Day 14 | 08  Dec 2025 | Maths (#Easy- Make Groups(CodeStudio)) | [Solution](./DSA/day-25.md) |
+| Day 14 | 09  Dec 2025 | String (#Moderate- Multiply Strings(CodeStudio)) | [Solution](./DSA/day-26.md) |
+
 
 
 
