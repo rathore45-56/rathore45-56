@@ -93,6 +93,9 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 14 | 08  Dec 2025 | Maths (#Easy- Make Groups(CodeStudio)) | [Solution](./DSA/day-25.md) |
 | Day 15 | 09  Dec 2025 | String (#Moderate- Multiply Strings(CodeStudio)) | [Solution](./DSA/day-26.md) |
 | Day 15 | 09  Dec 2025 | String (#Easy- Fibonacci Member(CodeStudio)) | [Solution](./DSA/day-27.md) |
+| Day 16 | 10  Dec 2025 | Maths (#Moderate-Modulo Calculation(CodeStudio)) | [Solution](./DSA/day-28.md) |
+
+
 
 
 
