@@ -29,8 +29,8 @@ Node* kReverse(Node* head, int k) {
        curr=currnext;
        count++;
     }
-    if(currnext!=NULL)
-    head->next= kReverse(currnext, k);
+    if(curr!=NULL)
+    head->next= kReverse(curr, k);
      return prev;
     }
 }
