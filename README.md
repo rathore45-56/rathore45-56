@@ -97,6 +97,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 16 | 10  Dec 2025 | Linked List (#Easy-Reverse Linked List(CodeStudio)) | [Solution](./DSA/day-29.md) |
 | Day 17 | 11  Dec 2025 | Linked List (#Easy-Middle of LinkedList(CodeStudio)) | [Solution](./DSA/day-30.md) |
 | Day 17 | 11  Dec 2025 | Linked List (#Hard-Reverse List In K Groups(CodeStudio)) | [Solution](./DSA/day-31.md) |
+| Day 18 | 12  Dec 2025 | Linked List (#Easy- Circularly Linked(CodeStudio)) | [Solution](./DSA/day-32.md) |
+
 
 
 
