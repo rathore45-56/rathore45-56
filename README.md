@@ -101,6 +101,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 18 | 12  Dec 2025 | Linked List (#Easy- Reverse a Doubly LinkedList(CodeStudio)) | [Solution](./DSA/day-33.md) |
 | Day 19 | 13  Dec 2025 | Linked List (#Moderate- Add Two Numbers As Linked Lists ll(CodeStudio)) | [Solution](./DSA/day-34.md) |
 | Day 19 | 13  Dec 2025 | Linked List (#Moderate- Detect and Remove Loop(CodeStudio)) | [Solution](./DSA/day-35.md) |
+| Day 20 | 14  Dec 2025 | Linked List (#Easy- Remove duplicates from a sorted Doubly Linked List(CodeStudio)) | [Solution](./DSA/day-36.md) |
+
 
 
 
