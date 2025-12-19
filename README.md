@@ -104,6 +104,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 20 | 14  Dec 2025 | Linked List (#Easy- Remove duplicates from a sorted Doubly Linked List(CodeStudio)) | [Solution](./DSA/day-36.md) |
 | Day 21 | 15  Dec 2025 | Linked List (#Moderate- Remove Duplicates From an Unsorted Linked List(CodeStudio)) | [Solution](./DSA/day-37.md) |
 | Day 21 | 15  Dec 2025 | Linked List (#Easy- Sort linked list of 0s 1s 2s(CodeStudio)) | [Solution](./DSA/day-38.md) |
+| Day 22 | 16  Dec 2025 | Linked List (#Moderate- Merge Two Sorted Linked Lists(CodeStudio)) | [Solution](./DSA/day-39.md) |
+
 
 
 
