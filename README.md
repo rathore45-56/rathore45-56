@@ -106,6 +106,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 21 | 15  Dec 2025 | Linked List (#Easy- Sort linked list of 0s 1s 2s(CodeStudio)) | [Solution](./DSA/day-38.md) |
 | Day 22 | 16  Dec 2025 | Linked List (#Moderate- Merge Two Sorted Linked Lists(CodeStudio)) | [Solution](./DSA/day-39.md) |
 | Day 23 | 17  Dec 2025 | Array problems (#Easy- Sort 0 1 2(CodeStudio)) | [Solution](./DSA/day-40.md) |
+| Day 23 | 17  Dec 2025 | Array problems (#Easy- Frog Jump(CodeStudio)) | [Solution](./DSA/day-41.md) |
 
 
 
