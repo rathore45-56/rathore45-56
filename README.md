@@ -31,7 +31,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Sorting | ✔ Completed |
 | Searching | ✔ Completed |
 | OOP | ✔ Completed |
-| Linked List | 🔄 In Progress |
+| Linked List | ✔ Completed |
 | Stack & Queue | ⏳ Upcoming |
 | Trees & BST | ⏳ Upcoming |
 | Graphs | ⏳ Upcoming |
