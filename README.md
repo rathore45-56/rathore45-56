@@ -110,6 +110,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 24 | 18  Dec 2025 | Array problems (#Easy- Set Matrix Zeros(CodeStudio)) | [Solution](./DSA/day-42.md) |
 | Day 25 | 19  Dec 2025 | Linked List (#Medium- Palindrome Linked List(GFG)) | [Solution](./DSA/day-43.md) |
 | Day 26 | 20  Dec 2025 | Linked List (#Hard- Clone List with Next and Random(GFG)) | [Solution](./DSA/day-44.md) |
+| Day 27 | 21  Dec 2025 | Array problems (#Easy- Second Largest Number(CodeStudio)) | [Solution](./DSA/day-45.md) |
+
 
 
 
