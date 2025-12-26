@@ -1,0 +1,72 @@
+#include <bits/stdc++.h> 
+node * findmid(node *head)
+{
+    node *slow=head;
+    node *fast=head->next;
+    while(fast!=NULL && fast->next!=NULL)
+    {   
+        slow=slow->next;
+        fast=fast->next;
+}
+    return slow;
+}
+
+ node * mergeLL( node * &first, node *&second)
+ {
+     if(first==NULL)
+     {
+        return second;
+     }
+     if(second==NULL)
+     return first;
+     node *ans= new node(-1);
+     node *temp=ans;
+     while(first!=NULL && second!=NULL)
+     {
+         if(first->data<second->data)
+         {
+             temp->next=first;
+             temp=first;
+             first=first->next;
+         }
+         else
+         {
+             temp->next=second;
+             temp=second;
+             second=second->next;
+         }
+     }
+     while(first!=NULL)
+     {
+          temp->next=first;
+             temp=first;
+             first=first->next;
+     }
+     while(second!=NULL)
+     {
+          temp->next=second;
+             temp=second;
+             second=second->next;
+     }
+     ans=ans->next;
+     return ans;
+ }
+
+     
+node *mergeSort(node *head){
+    if(head==NULL || head->next==NULL)
+    return head;
+   node * mid= findmid(head);
+   node *left=head;
+   node *right=mid->next;
+   mid->next=NULL;
+   // sort calls for 2 halves
+   left=mergeSort(left);
+   right=mergeSort(right);
+
+   // merge two sorted halves
+
+   node *result= mergeLL(left,right);
+   return result;
+   
+}
