@@ -113,6 +113,11 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 27 | 21  Dec 2025 | Array problems (#Easy- Second Largest Number(CodeStudio)) | [Solution](./DSA/day-45.md) |
 | Day 28 | 22  Dec 2025 | Linked List (#Moderate-MergeSort LinkedList(#5/6 test cases passed(CodeStudio)) | [Solution](./DSA/day-46.md) |
 | Day 28 | 22  Dec 2025 | Linked List (#Easy-Flatten A Linked List(CodeStudio)) | [Solution](./DSA/day-47.md) |
+| Day 29 | 23  Dec 2025 | Array problems (#Moderate- Maximum Subarray Sum(CodeStudio)) | [Solution](./DSA/day-48.md) |
+| Day 30 | 24  Dec 2025 | String problems (#Moderate- Remove Outermost Parentheses(CodeStudio)) | [Solution](./DSA/day-49.md) |
+
+
+
 
 
 
