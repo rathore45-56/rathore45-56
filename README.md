@@ -116,6 +116,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 29 | 23  Dec 2025 | Array problems (#Moderate- Maximum Subarray Sum(CodeStudio)) | [Solution](./DSA/day-48.md) |
 | Day 30 | 24  Dec 2025 | String problems (#Moderate- Remove Outermost Parentheses(LeetCode)) | [Solution](./DSA/day-49.md) |
 | Day 31 | 25  Dec 2025 | Array problems (#Moderate- Rearrange Array Elements by Sign(LeetCode)) | [Solution](./DSA/day-50.md) |
+| Day 31 | 25  Dec 2025 | Stack Problems (#Moderate- Two Stacks(CodeStudio)) | [Solution](./DSA/day-51.md) |
+
 
 
 
