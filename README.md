@@ -118,6 +118,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 31 | 25  Dec 2025 | Array problems (#Moderate- Rearrange Array Elements by Sign(LeetCode)) | [Solution](./DSA/day-50.md) |
 | Day 31 | 25  Dec 2025 | Stack Problems (#Moderate- Two Stacks(CodeStudio)) | [Solution](./DSA/day-51.md) |
 | Day 32 | 26  Dec 2025 | Stack Problems (#Easy- Stack Implementation Using Array(CodeStudio)) | [Solution](./DSA/day-52.md) |
+| Day 33 | 27  Dec 2025 | Stack Problems (#oderate- Stack Implementation Using LinkedList(CodeStudio)) | [Solution](./DSA/day-53.md) |
+
 
 
 
