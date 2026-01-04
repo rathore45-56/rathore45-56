@@ -122,6 +122,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 33 | 27  Dec 2025 | Array Problems (#Easy- Rotate Array(CodeStudio)) | [Solution](./DSA/day-54.md) |
 | Day 34 | 28  Dec 2025 | Stack Problems (#Easy- Delete middle element from stack(CodeStudio)) | [Solution](./DSA/day-55.md) |
 | Day 35 | 29  Dec 2025 | Stack Problems (#Easy- Valid Parentheses(CodeStudio)) | [Solution](./DSA/day-56.md) |
+| Day 36 | 30  Dec 2025 | Stack Problems (#Easy- Insert An Element At Its Bottom In A Given Stack(CodeStudio)) | [Solution](./DSA/day-57.md) |
+
 
 
 
