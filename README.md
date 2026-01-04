@@ -125,6 +125,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 36 | 30  Dec 2025 | Stack Problems (#Easy- Insert An Element At Its Bottom In A Given Stack(CodeStudio)) | [Solution](./DSA/day-57.md) |
 | Day 37 | 31  Dec 2025 | Stack Problems (#Easy- Reverse Stack Using Recursion(CodeStudio)) | [Solution](./DSA/day-58.md) |
 | Day 38 | 01  Jan 2026 | Stack Problems (#Easy- Sort a Stack(CodeStudio)) | [Solution](./DSA/day-59.md) |
+| Day 39 | 02  Jan 2026 | Stack Problems (#Easy-  Redundant Brackets(CodeStudio)) | [Solution](./DSA/day-60.md) |
+
 
 
 
