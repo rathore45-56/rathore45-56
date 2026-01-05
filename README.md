@@ -129,6 +129,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 40 | 03  Jan 2026 | Stack Problems (#Moderate - Minimum Cost To Make String Valid(CodeStudio)) | [Solution](./DSA/day-61.md) |
 | Day 40 | 03  Jan 2026 | Stack Problems (#Moderate - Next Smaller Element(CodeStudio)) | [Solution](./DSA/day-62.md) |
 | Day 41 | 04  Jan 2026 | Stack Problems (#Hard - Largest rectangle in a histogram(CodeStudio)) | [Solution](./DSA/day-63.md) |
+| Day 42 | 05  Jan 2026 | Stack Problems (#Medium -The Celebrity Problem(GFG)) | [Solution](./DSA/day-64.md) |
+
 
 
 
