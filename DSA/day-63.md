@@ -4,11 +4,11 @@
  
  vector<int> solve1(vector < int > & arr,int a)
  {
-   /* In this function we are finding next smaller element from
+   /* In this function i am finding next smaller element from
    right side of given array
-   But we are finding the indices of element and storing in vector<int> array k
-   so that when we find the maximum area of a particular element then we can 
-   just subtract the prev smaller element indices from that*/
+   But i am  finding the indices of element and storing in vector<int> array k
+   so that when i find the maximum area of a particular element then we can 
+   just subtract the prev smaller element indices from that and just multiply it with array element */
     stack<int>s;
     vector<int>k(a);
     s.push(-1);
@@ -25,10 +25,10 @@
  }
  vector<int> solve2(vector < int > & arr,int b)
  {
-   /* In this function we are finding previous smaller element from
+   /* In this function i am  finding previous smaller element from
    left side of given array.
-   But we are finding the indices of element and storing in vector<int> array k
-   so that when we find the maximum area of a particular element then we can 
+   But i am  finding the indices of element and storing in vector<int> array k
+   so that when i find the maximum area of a particular element then we can 
    just subtract the prev smaller element indices from next smaller element indices*/
    stack<int>s;
    vector<int>k(b);
@@ -59,7 +59,7 @@
    {
      if(nextsmallerelement[i]==-1)
      {
-       /* Here we are putting nextsmaller value is equal to arr size because element after that is greater from it so it can make that area with that
+       /* Here i am  putting nextsmaller value is equal to arr size because element after that is greater from it so it can make that area with that
        and then we are taking previous value and then mutliply it.*/
        nextsmallerelement[i]=n;
      }
