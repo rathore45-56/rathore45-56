@@ -51,9 +51,11 @@ class Solution {
     }
   public:
     int maxArea(vector<vector<int>> &mat) {
+    // In this  AreaofArray() function i am finding a area of intial row through largest rectangle in a histogram approach//
        int area= AreaofArray(mat[0], mat[0].size());
        for(int i=1;i<mat.size();i++)
-       {
+       { // In this i am adding column of previous whose value is 1 and just add to the current so that  
+            I can calculate an maximum area of combined rows through same largest rectangle in a histogram approach //
            for(int j=0;j<mat[0].size();j++)
            {
                if(mat[i][j]==1)
@@ -61,6 +63,7 @@ class Solution {
                else
                mat[i][j]=0;
            }
+           // In this i am keeping track of maximum area.
            area=max(area,AreaofArray(mat[i], mat[0].size()));
        }
         return area;
