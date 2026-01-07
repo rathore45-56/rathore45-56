@@ -131,6 +131,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 41 | 04  Jan 2026 | Stack Problems (#Hard - Largest rectangle in a histogram(CodeStudio)) | [Solution](./DSA/day-63.md) |
 | Day 42 | 05  Jan 2026 | Stack Problems (#Medium -The Celebrity Problem(GFG)) | [Solution](./DSA/day-64.md) |
 | Day 42 | 05  Jan 2026 | Stack Problems (#Hard - Max rectangle(GFG)) | [Solution](./DSA/day-65.md) |
+| Day 43 | 06  Jan 2026 | Stack Problems (#Hard - N Stacks In An Array(CodeStudio)) | [Solution](./DSA/day-66.md) |
 
 
 
