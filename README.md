@@ -132,6 +132,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 42 | 05  Jan 2026 | Stack Problems (#Medium -The Celebrity Problem(GFG)) | [Solution](./DSA/day-64.md) |
 | Day 42 | 05  Jan 2026 | Stack Problems (#Hard - Max rectangle(GFG)) | [Solution](./DSA/day-65.md) |
 | Day 43 | 06  Jan 2026 | Stack Problems (#Hard - N Stacks In An Array(CodeStudio)) | [Solution](./DSA/day-66.md) |
+| Day 44 | 07  Jan 2026 | Stack Problems (#Medium - Design a stack that supports getMin() in O(1) time and O(1) extra space(CodeStudio)) | [Solution](./DSA/day-67.md) |
+
 
 
 
