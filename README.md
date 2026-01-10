@@ -134,6 +134,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 43 | 06  Jan 2026 | Stack Problems (#Hard - N Stacks In An Array(CodeStudio)) | [Solution](./DSA/day-66.md) |
 | Day 44 | 07  Jan 2026 | Stack Problems (#Medium - Design a stack that supports getMin() in O(1) time and O(1) extra space(CodeStudio)) | [Solution](./DSA/day-67.md) |
 | Day 45 | 08  Jan 2026 | Stack Problems (#Easy - Sum Of Three Stacks(CodeStudio)) | [Solution](./DSA/day-68.md) |
+| Day 45 | 08  Jan 2026 | Queue Problems (#Easy - Implement a Queue Using Array (CodeStudio)) | [Solution](./DSA/day-69.md) |
+
 
 
 
