@@ -136,6 +136,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 45 | 08  Jan 2026 | Stack Problems (#Easy - Sum Of Three Stacks(CodeStudio)) | [Solution](./DSA/day-68.md) |
 | Day 45 | 08  Jan 2026 | Queue Problems (#Easy - Implement a Queue Using Array (CodeStudio)) | [Solution](./DSA/day-69.md) |
 | Day 46 | 09  Jan 2026 | Queue Problems (#Easy - Circular Queue(CodeStudio)) | [Solution](./DSA/day-70.md) |
+| Day 46 | 09  Jan 2026 | Queue Problems (#Easy - Implement Deque(CodeStudio)) | [Solution](./DSA/day-71.md) |
 
 
 
