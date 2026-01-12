@@ -138,6 +138,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 46 | 09  Jan 2026 | Queue Problems (#Easy - Circular Queue(CodeStudio)) | [Solution](./DSA/day-70.md) |
 | Day 46 | 09  Jan 2026 | Queue Problems (#Easy - Implement Deque(CodeStudio)) | [Solution](./DSA/day-71.md) |
 | Day 47 | 10  Jan 2026 | Queue Problems (#Medium - First negative in every window of size k(GFG)) | [Solution](./DSA/day-72.md) |
+| Day 47 | 10  Jan 2026 | Queue Problems (#Medium - Stream First Non-repeating(GFG)) | [Solution](./DSA/day-73.md) |
+
 
 
 
