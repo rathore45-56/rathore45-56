@@ -142,6 +142,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 48 | 11  Jan 2026 | Queue Problems (#Hard - Implement k Queues in a Single Array(GFG)) | [Solution](./DSA/day-74.md) |
 | Day 48 | 11  Jan 2026 | LinkedList Problems (#Moderate - Swap Nodes in Pairs(CodeStudio)) | [Solution](./DSA/day-75.md) |
 | Day 49 | 12  Jan 2026 | Sorting Problems (#Moderate - Count Inversions(CodeStudio)) | [Solution](./DSA/day-76.md) |
+| Day 50 | 13  Jan 2026 | Searching Problems (#Moderate - Allocate Books(CodeStudio)) | [Solution](./DSA/day-77.md) |
 
 
 
