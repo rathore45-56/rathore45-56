@@ -144,6 +144,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 49 | 12  Jan 2026 | Sorting Problems (#Moderate - Count Inversions(CodeStudio)) | [Solution](./DSA/day-76.md) |
 | Day 50 | 13  Jan 2026 | Searching Problems (#Moderate - Allocate Books(CodeStudio)) | [Solution](./DSA/day-77.md) |
 | Day 51 | 14  Jan 2026 | Array Problems (#Moderate - First Missing Positive(CodeStudio)) | [Solution](./DSA/day-78.md) |
+| Day 52 | 15  Jan 2026 | Searching Problems (#Moderate -  Painter's Partition Problem(CodeStudio)) | [Solution](./DSA/day-79.md) |
+
 
 
 
