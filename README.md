@@ -145,6 +145,9 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 50 | 13  Jan 2026 | Searching Problems (#Moderate - Allocate Books(CodeStudio)) | [Solution](./DSA/day-77.md) |
 | Day 51 | 14  Jan 2026 | Array Problems (#Moderate - First Missing Positive(CodeStudio)) | [Solution](./DSA/day-78.md) |
 | Day 52 | 15  Jan 2026 | Searching Problems (#Moderate -  Painter's Partition Problem(CodeStudio)) | [Solution](./DSA/day-79.md) |
+| Day 53 | 16  Jan 2026 |Competitive Programming (#Starters 222(Competitive Programming)- Candy Types(CodeChef)) | [Solution](./DSA/day-80.md) |
+| Day 54 | 17  Jan 2026 |Competitive Programming (#Starters 222(Competitive Programming)- Sorting Prefixes(CodeChef)) | [Solution](./DSA/day-81.md) |
+| Day 54 | 17  Jan 2026 |Competitive Programming (#Starters 222(Competitive Programming)- Layered Cake(CodeChef)) | [Solution](./DSA/day-82.md) |
 
 
 
