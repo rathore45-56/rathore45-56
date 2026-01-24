@@ -148,6 +148,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 53 | 16  Jan 2026 |Competitive Programming (#Starters 222(Competitive Programming)- Candy Types(CodeChef)) | [Solution](./DSA/day-80.md) |
 | Day 54 | 17  Jan 2026 |Competitive Programming (#Starters 222(Competitive Programming)- Sorting Prefixes(CodeChef)) | [Solution](./DSA/day-81.md) |
 | Day 54 | 17  Jan 2026 |Competitive Programming (#Starters 222(Competitive Programming)- Layered Cake(CodeChef)) | [Solution](./DSA/day-82.md) |
+| Day 55 | 18  Jan 2026 |Tree Problems (#Easy -  Count Leaf Nodes(CodeStudio)) | [Solution](./DSA/day-83.md) |
+| Day 56 | 19  Jan 2026 |Tree Problems (#Easy - Height of Binary Tree(GFG)) | [Solution](./DSA/day-84.md) |
 
 
 
