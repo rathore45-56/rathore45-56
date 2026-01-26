@@ -15,7 +15,7 @@ class Solution {
                 if(!q.empty())
                 {
                     q.push(NULL);
-                    count++;
+                    count++; 
                 }
             }
             else
