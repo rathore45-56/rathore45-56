@@ -18,7 +18,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 - Graphs (BFS, DFS, Shortest Path)
 - Dynamic Programming (DP)
 
-📍 My goal is to master data structures required for real-world technical interviews and maintain daily GitHub commits by solving topic-wise problems.
+📍 My goal is to master data structures required for real-world technical interviews and maintain daily GitHub commits by solving topic-wise problems. 
 
 ### 🧠 DSA Progress & Badges
 
