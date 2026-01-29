@@ -1,5 +1,5 @@
 class Solution {
-// 
+// // This takes O(n*2) Time complexity and O(height of binary tree) Space Complexity.//
     private:
     int height(Node *root)
     {
@@ -22,3 +22,5 @@ class Solution {
          return false;
     }
 };
+
+
