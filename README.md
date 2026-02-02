@@ -153,6 +153,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 56 | 19  Jan 2026 |Array Problems (#Easy - Majority Majority Element - II(CodeStudio)) | [Solution](./DSA/day-85.md) |
 | Day 57 | 20  Jan 2026 |Tree Problems (#Medium - Diameter of a Binary Tree(GFG))  | [Solution](./DSA/day-86.md) |
 | Day 58 | 21  Jan 2026 |Tree Problems (#Easy -Balanced Tree Check(GFG))  | [Solution](./DSA/day-87.md) |
+| Day 58 | 21  Jan 2026 |Array Problems (#Moderate - Longest Consecutive Sequence(CodeStudio)) | [Solution](./DSA/day-88.md) |
 
 
 
