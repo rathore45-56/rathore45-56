@@ -33,7 +33,7 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | OOP | ✔ Completed |
 | Linked List | ✔ Completed |
 | Stack & Queue | ✔ Completed |
-| Trees & BST | ⏳ Upcoming |
+| Trees & BST | ⏳ Upcoming |  
 | Graphs | ⏳ Upcoming |
 | Dynamic Programming | ⏳ Upcoming |
 
