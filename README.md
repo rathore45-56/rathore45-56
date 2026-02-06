@@ -155,6 +155,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 58 | 21  Jan 2026 |Tree Problems (#Easy -Balanced Tree Check(GFG))  | [Solution](./DSA/day-87.md) |
 | Day 58 | 21  Jan 2026 |Array Problems (#Moderate - Longest Consecutive Sequence(CodeStudio)) | [Solution](./DSA/day-88.md) |
 | Day 59 | 22  Jan 2026 |Array Problems (#Moderate - Best Time to Buy and Sell Stock(CodeStudio)) | [Solution](./DSA/day-89.md) |
+| Day 59 | 22  Jan 2026 |Array Problems (#Moderate -  Find Four Elements That Sums To A Given Value(CodeStudio)) | [Solution](./DSA/day-90.md) |
+
 
 
 
