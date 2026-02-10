@@ -156,6 +156,8 @@ Currently, I am working on advanced topics, and my upcoming roadmap includes:
 | Day 58 | 21  Jan 2026 |Array Problems (#Moderate - Longest Consecutive Sequence(CodeStudio)) | [Solution](./DSA/day-88.md) |
 | Day 59 | 22  Jan 2026 |Array Problems (#Moderate - Best Time to Buy and Sell Stock(CodeStudio)) | [Solution](./DSA/day-89.md) |
 | Day 59 | 22  Jan 2026 |Array Problems (#Moderate -  Find Four Elements That Sums To A Given Value(CodeStudio)) | [Solution](./DSA/day-90.md) |
+| Day 60 | 23  Jan 2026 |LinkedList Problems (#Easy - Delete Node In A Linked List(CodeStudio)) | [Solution](./DSA/day-91.md) |
+
 
 
 
